@@ -1,5 +1,9 @@
 package pl.wielgomasz.hotelsapplicationtest.remote.rest.dto.response;
 
+import pl.wielgomasz.hotelsapplicationtest.domain.model.ReservationStatusType;
+import pl.wielgomasz.hotelsapplicationtest.remote.rest.dto.request.PersonReservationDto;
+import pl.wielgomasz.hotelsapplicationtest.remote.rest.dto.request.RoomReservationDto;
+
 import java.util.List;
 
 public class ReservationDto {
